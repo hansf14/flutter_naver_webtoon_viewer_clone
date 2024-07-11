@@ -1,4 +1,4 @@
-# flutter_naver_webtoon_viewer_clone
+# Flutter Naver Webtoon Viewer Clone
 
 - **One of my personal digital nomad life projects (for practice).**
 - **Project current status: [complete]**:ballot_box_with_check:
